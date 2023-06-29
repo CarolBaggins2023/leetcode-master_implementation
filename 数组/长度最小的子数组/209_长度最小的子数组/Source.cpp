@@ -16,7 +16,7 @@ class Solution {
     int sum = 0;
     int min_sublen = INT32_MAX;
     for (; end < nums.size(); ++end) {
-      sum += nums.at(end);
+      sum += nums.at(end); 
       while (sum >= target) {
         if ((end - begin + 1) < min_sublen) {
           min_sublen = end - begin + 1;
