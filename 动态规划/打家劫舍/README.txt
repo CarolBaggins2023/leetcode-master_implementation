@@ -1,1 +1,1 @@
-打家劫舍III、HDU-1520 Anniversary party、HDU-2196 Computer和834. 树中距离之和，都属于树形DP问题
+打家劫舍III和HDU1520_Anniversary party（和洛谷P1352相同），都属于树形DP问题
